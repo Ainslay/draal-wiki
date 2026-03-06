@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/eteria/"}
+{"dg-publish":true,"permalink":"/frakcje/eteria/","created":"2025-03-24T17:38:15.081+01:00","updated":"2026-03-06T20:57:10.653+01:00"}
 ---
 
 ### Eteria 

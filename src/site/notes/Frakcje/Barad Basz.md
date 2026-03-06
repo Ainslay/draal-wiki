@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/barad-basz/"}
+{"dg-publish":true,"permalink":"/frakcje/barad-basz/","created":"2025-03-24T17:26:41.151+01:00","updated":"2026-03-06T20:56:50.915+01:00"}
 ---
 
 ### Bard Basz, Przymierze Kłów, Enklawa 

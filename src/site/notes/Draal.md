@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/draal/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/draal/","tags":["gardenEntry"],"created":"2025-03-24T17:10:04.466+01:00","updated":"2026-03-06T20:17:57.101+01:00"}
 ---
 
 ## Witamy w świecie Draalu! 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/sonata/"}
+{"dg-publish":true,"permalink":"/frakcje/sonata/","created":"2025-03-24T17:22:09.815+01:00","updated":"2026-03-06T20:58:01.358+01:00"}
 ---
 
 ### Sonata, Ostoja Pieśni, Resona 
