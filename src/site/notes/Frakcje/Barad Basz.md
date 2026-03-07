@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/barad-basz/","created":"2025-03-24T17:26:41.151+01:00","updated":"2026-03-06T20:56:50.915+01:00"}
+{"dg-publish":true,"permalink":"/frakcje/barad-basz/","created":"2025-03-24T17:26:41.151+01:00","updated":"2026-03-07T21:38:47.188+01:00"}
 ---
+
+#frakcje #todo
 
 ### Bard Basz, Przymierze Kłów, Enklawa 
 - Populacja: bardzo duża 

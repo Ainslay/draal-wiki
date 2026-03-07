@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/rates/","created":"2025-03-24T17:47:04.322+01:00","updated":"2026-03-06T20:57:54.693+01:00"}
+{"dg-publish":true,"permalink":"/frakcje/rates/","created":"2025-03-24T17:47:04.322+01:00","updated":"2026-03-07T21:39:41.731+01:00"}
 ---
+
+#frakcje #todo
 
 ### Rates, Stolica Alchemii, Morovia 
 - Populacja: średnia 

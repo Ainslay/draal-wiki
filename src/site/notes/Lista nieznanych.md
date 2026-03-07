@@ -10,5 +10,7 @@
 - [[Postaci/Elfowie/Hadar\|Hadar]]
 - [[Postaci/Elfowie/Imrahil Włócznia Opiekuna\|Imrahil Włócznia Opiekuna]]
 - [[Postaci/Elfowie/Laethel Łaskawa\|Laethel Łaskawa]]
+- [[Lokacje/Bezdeń\|Bezdeń]]
+- [[Pojęcia/Wiedza ogólna/Księga Wypowiedzianego Prawa\|Księga Wypowiedzianego Prawa]]
 
 { .block-language-dataview}

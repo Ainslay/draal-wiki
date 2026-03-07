@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/dorahtuul/","created":"2025-03-24T17:52:46.436+01:00","updated":"2026-03-06T20:57:04.988+01:00"}
+{"dg-publish":true,"permalink":"/frakcje/dorahtuul/","created":"2025-03-24T17:52:46.436+01:00","updated":"2026-03-07T21:39:13.029+01:00"}
 ---
+
+#frakcje #todo
 
 ### Dorahtuul, kuźnia ciała, Monstria 
 - Populacja: średnia 
