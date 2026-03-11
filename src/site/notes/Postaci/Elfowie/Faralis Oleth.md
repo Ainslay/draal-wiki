@@ -4,4 +4,4 @@
 
 #postaci 
 
-Arcymag [[Frakcje/Imperium Elfów/Szmaragdowy Dwór\|Szmaragdowego Dworu]], który zginał z ręki [[Religia/Babel\|Babela]]. Znaleźliśmy zostawioną przez niego [[Znaleziska/Nagranie z kryształu Arcymaga Szmaragdowego Dworu\|wiadomość]] w Elfich ruinach na Południowej Pustyni.
+Arcymag [[Frakcje/Imperium Elfów/Szmaragdowy Dwór\|Szmaragdowego Dworu]], który zginał z ręki [[Religia/Babel\|Babela]]. Znaleźliśmy zostawioną przez niego [[Odkrycia/Nagranie z kryształu Arcymaga Szmaragdowego Dworu\|wiadomość]] w Elfich ruinach na Południowej Pustyni.

@@ -37,5 +37,6 @@
 - [[Postaci/Elfowie/Tauriel Oleth\|Tauriel Oleth]]
 - [[Frakcje/Imperium Elfów/Cadavianie\|Cadavianie]]
 - [[Lokacje/Klanaryt/Brama Hyrlingów\|Brama Hyrlingów]]
+- [[Odkrycia/Obelisk w Pierwszym Mieście\|Obelisk w Pierwszym Mieście]]
 
 { .block-language-dataview}

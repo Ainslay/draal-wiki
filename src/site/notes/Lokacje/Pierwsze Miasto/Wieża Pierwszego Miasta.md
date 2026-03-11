@@ -8,4 +8,4 @@ Stojąca w centrum [[Lokacje/Pierwsze Miasto/Pierwsze Miasto\|Pierwszego Miasta]
 
 Środek wieży pełen jest zaklęć zmieniających przestrzeń i grawitację zabezpieczających ją przed intruzami, a wejście do niej obarczone jest kosztem dużej ilości Eteru. Magiczne drzwi pochłaniają go aby otworzyć zamek i w domyśle zasilić między wymiarowe portale.
 
-W środku znajduje się również [[Znaleziska/Obelisk w Pierwszym Mieście\|Obelisk]], na którym zapisano przełomowe informacje, których autorami jednak nie byli ani krasnoludowie ani elfowie.
+W środku znajduje się również [[Odkrycia/Obelisk w Pierwszym Mieście\|Obelisk]], na którym zapisano przełomowe informacje, których autorami jednak nie byli ani krasnoludowie ani elfowie.
