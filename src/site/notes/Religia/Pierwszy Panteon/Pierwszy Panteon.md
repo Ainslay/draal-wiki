@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/religia/pierwszy-panteon/pierwszy-panteon/","created":"2026-03-06T20:46:46.554+01:00","updated":"2026-03-07T22:39:29.563+01:00"}
+{"dg-publish":true,"permalink":"/religia/pierwszy-panteon/pierwszy-panteon/","created":"2026-03-06T20:46:46.554+01:00","updated":"2026-03-11T19:28:38.061+01:00"}
 ---
 
-#religia 
+#religia #pierwszy_panteon
 
 W istocie... [[Religia/Pierwszy Panteon/Augur\|Ojciec Augur]] królujący nam nad niebem zsyła nam swoje światło i ciepło, bowiem nie ma nic straszniejszego niż zimno i ciemność Otchłani.
 
@@ -10,7 +10,7 @@ Czymże jest Otchłań ? Piekłem Nicości, które czeka grzesznych jeśli wątp
 
 Nie frasuj się jednak bowiem za sprawą [[Religia/Pierwszy Panteon/Hyra\|Matki Hyry]] nawet grzeszni mogą doznać litości i stanąć w świetle Ojca, dumni i czyści. Przeto jej łaska przelewa się przez piaski pustyni.
 
-Takoż [[Religia/Pierwszy Panteon/Tanit\|Tanit, Pierwsza Córka]] dba o swe śmiertelne rodzeństwo rozlewając wodę po Zieleńcu, który to  osłaniają [[Religia/Pierwszy Panteon/Oun\|Oun]] i [[Religia/Pierwszy Panteon/Nou\|Nou]] - Święte Bliźniaki.
+Takoż [[Religia/Pierwszy Panteon/Tanit\|Tanit, Pierwsza Córka]] dba o swe śmiertelne rodzeństwo rozlewając wodę po Zieleńcu, który to  osłaniają [[Religia/Pierwszy Panteon/Oun i Nou\|Oun i Nou]] - Święte Bliźniaki.
 Powtórz za mną zatem deklaracje Niebiańskiej Rodziny:
 	Ciemność kryje wszystko co było i być może.
 	Światło odkrywa to co w ciemności kryje.

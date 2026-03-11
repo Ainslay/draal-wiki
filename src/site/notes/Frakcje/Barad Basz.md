@@ -17,6 +17,6 @@
 	- Synowie 
 - Religia: Tradycja 
 - Osada: Maczu Pikczu 
-- Founding: [[Pielgrzymka Krwawych Łez\|Pielgrzymka Krwawych Łez]], kiedy Semani (zielonoskórzy) przeprawili się przez [[Morowe Powietrze\|Morowe Powietrze]] aby rozpocząć nową drogę życia zaprzestając kultywacji nomadzkiej kultury najazdów
+- Founding: [[Pielgrzymka Krwawych Łez\|Pielgrzymka Krwawych Łez]], kiedy Semani (zielonoskórzy) przeprawili się przez [[Lokacje/Morowe Powietrze\|Morowe Powietrze]] aby rozpocząć nową drogę życia zaprzestając kultywacji nomadzkiej kultury najazdów
 - Poziom technologiczny: IX wieczna Europa barbarzyńska 
 - Ogólny vibe: Maczu Pikczu z...orkami ?
