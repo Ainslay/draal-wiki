@@ -6,7 +6,7 @@
 
 W istocie... [[Religia/Pierwszy Panteon/Augur\|Ojciec Augur]] królujący nam nad niebem zsyła nam swoje światło i ciepło, bowiem nie ma nic straszniejszego niż zimno i ciemność Otchłani.
 
-Czymże jest Otchłań ? Piekłem Nicości, które czeka grzesznych jeśli wątpisz, zajdź na krawędź [[Lokacje/Bezdeń\|Bezdeni]] i zajrzyj w jej trzewia a poznasz przedsmak katuszy.
+Czymże jest Otchłań ? Piekłem Nicości, które czeka grzesznych jeśli wątpisz, zajdź na krawędź [[Lokacje/Dolna Pustynia/Bezdeń\|Bezdeni]] i zajrzyj w jej trzewia a poznasz przedsmak katuszy.
 
 Nie frasuj się jednak bowiem za sprawą [[Religia/Pierwszy Panteon/Hyra\|Matki Hyry]] nawet grzeszni mogą doznać litości i stanąć w świetle Ojca, dumni i czyści. Przeto jej łaska przelewa się przez piaski pustyni.
 

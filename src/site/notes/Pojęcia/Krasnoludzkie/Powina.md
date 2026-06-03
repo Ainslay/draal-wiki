@@ -4,7 +4,7 @@
 
 #pojęcia #krasnoludzkie 
 
-Pogardliwe określenie na krasnoluda, który zhańbił swój klan zbrodnią lub innym występkiem i za karę został wygnany ze swojego klanu i zesłany do getta dla powin, czyli [[Lokacje/Klanaryt/Popiołki\|Popiołków]].
+Pogardliwe określenie na krasnoluda, który zhańbił swój klan zbrodnią lub innym występkiem i za karę został wygnany ze swojego klanu i zesłany do getta dla powin, czyli [[Lokacje/Dolna Pustynia/Klanaryt/Popiołki\|Popiołków]].
 
 Tradycyjnie była to instytucja, która umożliwiała rehabilitację złych czynów i odzyskanie honoru i miejsca w klanie poprzez ciężką pracę. Ta jednak w ciągu wieków zatraciła pierwotną funkcję, stając się wygodną siłą roboczą z urzędu pozbawioną wielu praw przysługujących reszcie krasnoludów.
 

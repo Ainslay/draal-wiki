@@ -4,4 +4,4 @@
 
 #religia #pierwszy_panteon #nieznane
 
-Nie wiele wiemy o Tanit, oprócz tego że zapewnia życiodajną wodę na [[Lokacje/Zieleniec\|Zieleńcu]].
+Nie wiele wiemy o Tanit, oprócz tego że zapewnia życiodajną wodę na [[Lokacje/Zieleniec/Zieleniec\|Zieleńcu]].

@@ -4,4 +4,4 @@
 
 #pojęcia #ludzkie #istari 
 
-Wybrany przez starszyznę wioski [[Frakcje/Istari, Plemię Gromu\|Istari]] najzdolniejszy Kapłan [[Postaci/Elfowie/Anarion Światły\|Anariona]], który rusza w podróż po Drallu. Misją Pielgrzyma podczas tej podróży jest zebranie wystarczającej siły, wiedzy i doświadczenia aby pokonać [[Pojęcia/Istari/Ścieżka\|Ścieżkę]].
+Wybrany przez starszyznę wioski [[Frakcje/Istari, Plemię Gromu\|Istari]] najzdolniejszy Kapłan [[Postaci/Astraci/Anarion Światły\|Anariona]], który rusza w podróż po Drallu. Misją Pielgrzyma podczas tej podróży jest zebranie wystarczającej siły, wiedzy i doświadczenia aby pokonać [[Pojęcia/Istari/Ścieżka\|Ścieżkę]].

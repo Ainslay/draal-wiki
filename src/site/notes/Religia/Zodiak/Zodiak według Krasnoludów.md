@@ -4,6 +4,6 @@
 
 #zodiak
 
-Według Krasnoludów ułożenie Gwiazd w Zodiaku jest nieco inne, zmienia się ich kolejność. Był to klucz to rozwiązania zagadki drzwi do [[Lokacje/Pierwsze Miasto/Biblioteka Pierwszego Miasta\|Biblioteki]] w [[Lokacje/Pierwsze Miasto/Pierwsze Miasto\|Pierwszym Mieście]].
+Według Krasnoludów ułożenie Gwiazd w Zodiaku jest nieco inne, zmienia się ich kolejność. Był to klucz to rozwiązania zagadki drzwi do [[Lokacje/Dolna Pustynia/Klanaryt/Pierwsze Miasto/Biblioteka Pierwszego Miasta\|Biblioteki]] w [[Lokacje/Dolna Pustynia/Klanaryt/Pierwsze Miasto/Pierwsze Miasto\|Pierwszym Mieście]].
 
 ![krasnoludzki_zodiakpng.png](/img/user/Zasoby/krasnoludzki_zodiakpng.png)

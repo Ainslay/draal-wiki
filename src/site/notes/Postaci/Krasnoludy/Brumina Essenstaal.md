@@ -7,7 +7,7 @@
 Brumina, znana dziś jako [[Pojęcia/Krasnoludzkie/Pierwsza Matka\|Pierwsza Matka]] Klanu Essenstaal, 
 zyskała swoją pozycję nie dzięki tytułom czy dziedzictwu, lecz 
 dzięki czynom, które na trwałe zapisały się w pamięci setek 
-krasnoludów. W czasach, gdy [[Lokacje/Klanaryt/Popiołki\|Popiołki]] pełne były sierot – ofiar 
+krasnoludów. W czasach, gdy [[Lokacje/Dolna Pustynia/Klanaryt/Popiołki\|Popiołki]] pełne były sierot – ofiar 
 wypadków przy pracy w kopalniach i tunelach transportowych – 
 dzieci pozostawiano same sobie. Rodzice spędzali po szesnaście 
 godzin na zmianie, a i tak zarabiali ledwie tyle, by przetrwać. Brak 

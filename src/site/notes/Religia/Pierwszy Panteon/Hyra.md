@@ -11,7 +11,7 @@ W jej symbolice trzyma w dłoniach zarówno Wodę jak i Ogień, jest matką któ
 
 W jej kościele istnieją przynajmniej dwa ugrupowania: [[Frakcje/Klanaryt/Siostry Srogie\|Siostry Srogie]] i [[Frakcje/Klanaryt/Siostry Łagodne\|Siostry Łagodne]].
 
-Krasnoludowie sami o sobie mówią Hyrlingowie, dzieci Hyry. Stąd też nazwa ich góry oraz wejścia do niej: [[Pojęcia/Krasnoludzkie/Hyrlingberg\|Hyrlingberg]] i [[Lokacje/Klanaryt/Brama Hyrlingów\|Brama Hyrlingów]].
+Krasnoludowie sami o sobie mówią Hyrlingowie, dzieci Hyry. Stąd też nazwa ich góry oraz wejścia do niej: [[Pojęcia/Krasnoludzkie/Hyrlingberg\|Hyrlingberg]] i [[Lokacje/Dolna Pustynia/Klanaryt/Brama Hyrlingów\|Brama Hyrlingów]].
 
 ### U pozostałych ras
 Niewiele wiemy o Hyrze według wierzeń innych frakcji.

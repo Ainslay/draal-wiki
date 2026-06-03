@@ -4,4 +4,4 @@
 
 #nieznane #pojęcia
 
-Podania zdają się wskazywać, że jest to coś namacalnego i złowrogiego, czającego się poza światłem Augura, np. [[Lokacje/Bezdeń\|Bezdeń]].
+Podania zdają się wskazywać, że jest to coś namacalnego i złowrogiego, czającego się poza światłem Augura, np. [[Lokacje/Dolna Pustynia/Bezdeń\|Bezdeń]].

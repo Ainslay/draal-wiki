@@ -4,4 +4,4 @@
 
 #postaci
 
-Była ona czarownikiem spod [[Religia/Zodiak/Kemel Aratan\|Gwiazdy Uwiądu]], która zasłynęła straszliwym czynem rzucenia zaklęcia [[Pojęcia/Wiedza ogólna/Głód Hadara\|Głód Hadara]], które pochłonęło część pustyni tworząc [[Lokacje/Czarne Piaski\|Czarne Piaski]].
+Była ona czarownikiem spod [[Religia/Zodiak/Kemel Aratan\|Gwiazdy Uwiądu]], która zasłynęła straszliwym czynem rzucenia zaklęcia [[Pojęcia/Wiedza ogólna/Głód Hadara\|Głód Hadara]], które pochłonęło część pustyni tworząc [[Lokacje/Dolna Pustynia/Czarne Piaski\|Czarne Piaski]].

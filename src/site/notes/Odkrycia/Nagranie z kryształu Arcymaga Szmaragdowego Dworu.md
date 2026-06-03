@@ -4,7 +4,7 @@
 
 #odkrycia
 
-Dokonało się, [[Lokacje/Hayadar\|Hayadar]] upadło. [[Frakcje/Imperium Elfów/Supremaci\|Supremaci]] przegrali. Przepisuję to przesłanie bowiem księgi zdały się oszaleć...
+Dokonało się, [[Pojęcia/Elfickie/Hayadar\|Hayadar]] upadło. [[Frakcje/Imperium Elfów/Supremaci\|Supremaci]] przegrali. Przepisuję to przesłanie bowiem księgi zdały się oszaleć...
 Po raz pierwszy usłyszałem o [[Religia/Babel\|Babelu]] jeszcze przed upadkiem  Naszego Imperium. Początkowo miałem go za zwykłego [[Pojęcia/Astraci/Erradeva\|Erradevę]], kiedy jednak zgładził całą chorągiew [[Pojęcia/Elfickie/Deiści\|Deistów]] musiałem przyjrzeć się temu osobiście. Czy to możliwe, że jest jednym z przebudzonych [[Pojęcia/Vethari\|Vethari]] ? 
 [...]
 

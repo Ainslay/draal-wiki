@@ -4,4 +4,4 @@
 
 #pojęcia #ogólne #zaklęcia
 
-Zaklęcie, które pożera wszystko i wszystkich na swojej drodze, rozchodząc się na wszystkie strony od centralnego punktu w którym zostało rzucone. Nieopanowane, ma potencjał aby pożreć cały Draal, tak więc jest zaklęciem surowo zakazanym przez wszystkie szkoły magii, a efekty jego działania po dziś dzień można zaobserwować w postaci [[Lokacje/Czarne Piaski\|Czarnych Piasków]] na Dolnej Pustyni.
+Zaklęcie, które pożera wszystko i wszystkich na swojej drodze, rozchodząc się na wszystkie strony od centralnego punktu w którym zostało rzucone. Nieopanowane, ma potencjał aby pożreć cały Draal, tak więc jest zaklęciem surowo zakazanym przez wszystkie szkoły magii, a efekty jego działania po dziś dzień można zaobserwować w postaci [[Lokacje/Dolna Pustynia/Czarne Piaski\|Czarnych Piasków]] na Dolnej Pustyni.
