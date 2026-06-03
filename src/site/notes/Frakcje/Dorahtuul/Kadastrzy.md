@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/dorahtuul/kadastrzy/","created":"2026-06-03T20:44:18.754+02:00","updated":"2026-06-03T20:51:14.034+02:00"}
+{"dg-publish":true,"permalink":"/frakcje/dorahtuul/kadastrzy/","created":"2026-06-03T20:44:18.754+02:00","updated":"2026-06-03T21:30:44.805+02:00"}
 ---
 
 #frakcje #dorahtuul
@@ -9,5 +9,5 @@ Uczeni chirurdzy praktykujący sztukę [[Pojęcia/Dorahtuul/Kadastria\|Kadastri]
 Czołowymi przedstawicielami byli:
 - [[Tadeus Ashcroft\|Tadeus Ashcroft]]
 - [[Kathleen Theron\|Kathleen Theron]]
-- [[Toman Koltz\|Toman Koltz]]
+- [[Toman Colds\|Toman Colds]]
 - [[Steven Works\|Steven Works]]
