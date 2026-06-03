@@ -6,4 +6,4 @@
 Astrata Gwiazdy Sztuki, Sekepi
 
 Znani nam Myhtar:
-- [[Postaci/Elfowie/Anarion Światły\|Anarion Światły]]
+- [[Postaci/Astraci/Anarion Światły\|Anarion Światły]]

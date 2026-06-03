@@ -6,7 +6,7 @@
 
 W zależności od regionu istnieje kilka sposobów nazywania kierunków świata, najbardziej popularnymi są: 
 - (N) Góra - Na [[Frakcje/Karhaba\|Karhabe]] 
-- (S) Dół - Na [[Lokacje/Brama\|Bramę]] 
+- (S) Dół - Na [[Lokacje/Dolna Pustynia/Brama\|Bramę]] 
 - (W) Oun - Na [[Frakcje/Sonata\|Sonatę]] 
 - (E) Nou - Na [[Frakcje/Barad Basz\|Basz]] 
 

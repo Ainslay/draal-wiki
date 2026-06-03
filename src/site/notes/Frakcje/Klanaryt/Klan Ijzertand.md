@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frakcje/klanaryt/klan-ijzertand/","created":"2026-03-07T22:53:04.498+01:00","updated":"2026-03-07T23:02:38.642+01:00"}
+{"dg-publish":true,"permalink":"/frakcje/klanaryt/klan-ijzertand/","created":"2026-03-07T22:53:04.498+01:00","updated":"2026-06-03T20:09:21.031+02:00"}
 ---
 
 #frakcje #klanaryt
@@ -19,4 +19,4 @@ Każdy członek uczy się władać orężem przed piórem. Domy Ijzertandów prz
 Trzon militarny, organizacja straży, gwardii, bezpieczeństwa przede wszystkim brama i plac wymian.
 
 #### Wobec Obcych: 
-Niech robią co chcą poza twierdzą, na placu wymian niech będą grzeczni i znają swoje miejsce, aczkolwiek fajnie by było się po napierdalać żeby ostrza toporów za bardzo nie stępiały. Chroniczna paranoja wobec [[Frakcje/Dorahtuul\|Dorahtuul]].
+Niech robią co chcą poza twierdzą, na placu wymian niech będą grzeczni i znają swoje miejsce, aczkolwiek fajnie by było się po napierdalać żeby ostrza toporów za bardzo nie stępiały. Chroniczna paranoja wobec [[Frakcje/Dorahtuul/Republika Dorahtuul\|Republika Dorahtuul]].

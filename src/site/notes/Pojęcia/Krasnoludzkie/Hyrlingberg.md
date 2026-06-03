@@ -4,4 +4,4 @@
 
 #klanaryt #pojęcia #krasnoludzkie 
 
-To nazwa góry, pod szczytem której zbudowano [[Lokacje/Pierwsze Miasto/Pierwsze Miasto\|Pierwsze Miasto]] oraz później [[Frakcje/Klanaryt/Klanaryt\|Klanaryt]] i [[Lokacje/Klanaryt/Miasto Kopalń\|Miasto Kopalń]].
+To nazwa góry, pod szczytem której zbudowano [[Lokacje/Dolna Pustynia/Klanaryt/Pierwsze Miasto/Pierwsze Miasto\|Pierwsze Miasto]] oraz później [[Frakcje/Klanaryt/Klanaryt\|Klanaryt]] i [[Lokacje/Dolna Pustynia/Klanaryt/Miasto Kopalń\|Miasto Kopalń]].

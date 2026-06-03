@@ -6,4 +6,4 @@
 
 Niewiele wiemy o niziołkach, mieszkają one w Klanarycie i służą krasnoludom jako ochroniarze i zabójcy. Opowieściami o nich straszy się na Draalu dzieci, a Ci którzy zmierzyli się z nimi i przeżyli wiedzą że są to śmiertelnie niebezpieczne stworzenia.
 
-Ich pochodzenie to zagadka, według krasnoludów pochodzą z [[Lokacje/Bezdeń\|Bezdeni]] a według elfów z Nouńskiego [[Lokacje/Zieleniec\|Zieleńca]].
+Ich pochodzenie to zagadka, według krasnoludów pochodzą z [[Lokacje/Dolna Pustynia/Bezdeń\|Bezdeni]] a według elfów z Nouńskiego [[Lokacje/Zieleniec/Zieleniec\|Zieleńca]].

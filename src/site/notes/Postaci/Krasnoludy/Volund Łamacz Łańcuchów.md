@@ -8,5 +8,5 @@ Bohater całej rasy Krasnoludzkiej, uwolnił ich spod jarzma [[Frakcje/Imperium 
 
 Volund był [[Pojęcia/Astraci/Astrata\|Astratą]] [[Religia/Zodiak/Ketuhanan\|Ketuhanan]], czyli [[Pojęcia/Astraci/Erradeva\|Erradevą]].
 
-Choć krasnoludzkie Klany spierają się, z którego klanu tak naprawdę pochodził Volund, Huncwoty zdołały odnaleźć prawdę wśród grobowców [[Lokacje/Pierwsze Miasto/Pierwsze Miasto\|Pierwszego Miasta]], gdzie pełne jego imię znalazło się na inskrypcji grobowca budowniczego: Volund [[Frakcje/Klanaryt/Klan Berghond\|Berghond]].
+Choć krasnoludzkie Klany spierają się, z którego klanu tak naprawdę pochodził Volund, Huncwoty zdołały odnaleźć prawdę wśród grobowców [[Lokacje/Dolna Pustynia/Klanaryt/Pierwsze Miasto/Pierwsze Miasto\|Pierwszego Miasta]], gdzie pełne jego imię znalazło się na inskrypcji grobowca budowniczego: Volund [[Frakcje/Klanaryt/Klan Berghond\|Berghond]].
 
