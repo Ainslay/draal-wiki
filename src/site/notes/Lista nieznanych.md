@@ -4,18 +4,18 @@
 
 - [[Religia/Pierwszy Panteon/Tanit\|Tanit]]
 - [[Religia/Pierwszy Panteon/Hyra\|Hyra]]
-- [[Postaci/Kustosz Biblioteki\|Kustosz Biblioteki]]
-- [[Postaci/Elfowie/Laethel Łaskawa\|Laethel Łaskawa]]
-- [[Postaci/Agar\|Agar]]
 - [[Pojęcia/Wiedza ogólna/Księga Wypowiedzianego Prawa\|Księga Wypowiedzianego Prawa]]
 - [[Pojęcia/Otchłań\|Otchłań]]
 - [[Pojęcia/Elfickie/Hyperion\|Hyperion]]
 - [[Pojęcia/Elfickie/Glesir\|Glesir]]
 - [[Pojęcia/Elfickie/Deiści\|Deiści]]
+- [[Postaci/Kustosz Biblioteki\|Kustosz Biblioteki]]
+- [[Postaci/Elfowie/Laethel Łaskawa\|Laethel Łaskawa]]
+- [[Postaci/Agar\|Agar]]
 - [[Lokacje/Morowe Powietrze\|Morowe Powietrze]]
 - [[Lokacje/Dolna Pustynia/Klanaryt/Czarny Bastion\|Czarny Bastion]]
+- [[Lokacje/Dolna Pustynia/Bezdeń\|Bezdeń]]
 - [[Frakcje/Semelin/Triumwirat\|Triumwirat]]
 - [[Frakcje/Klanaryt/Niziołki\|Niziołki]]
-- [[Lokacje/Dolna Pustynia/Bezdeń\|Bezdeń]]
 
 { .block-language-dataview}
