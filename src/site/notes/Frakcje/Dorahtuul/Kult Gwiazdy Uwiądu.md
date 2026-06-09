@@ -9,4 +9,4 @@ Przewodzony i wykorzystywany przez [[Postaci/Astraci/Cisza\|Ciszę]], działał 
 Oprócz samej Ciszy poznaliśmy też czołowych członków tej organizacji:
 - [[Postaci/Ludzie/Sara\|Sara]]
 - [[Mikel\|Mikel]]
-- [[Hedgar\|Hedgar]]
+- [[Postaci/Ludzie/Hedgar\|Hedgar]]
